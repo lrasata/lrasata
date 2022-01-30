@@ -65,4 +65,3 @@ My name is Liantsoa Rasata, just call me Lily :blush: I'm a Full-Stack Developer
 
 ## 📊 GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrasata&layout=compact)](https://github.com/lrasata/github-readme-stats)
-
