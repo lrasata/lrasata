@@ -57,6 +57,7 @@ My name is Liantsoa Rasata, just call me Lily :blush: I'm a Full-Stack Developer
 ## Tech I'm learning or I would like to learn
 <p>
   <img  alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-0B94DE?style=for-the-badge&logoColor=white">
   <img  alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img  alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
