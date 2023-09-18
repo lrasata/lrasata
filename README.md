@@ -1,6 +1,6 @@
 ## Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Liantsoa Rasata, just call me Lily :blush: I'm a Full-Stack Developer currently living in New Zealand. I'm a passionate software engineer who always like to learn, try and test. Coding is challenging but also satisfying and fun (when everything works as expected right?...:sweat_smile:).
+My name is Liantsoa Rasata. I'm a Software Engineer currently living in New Zealand. I'm a passionate developer who always likes to learn, try, and test. Coding is challenging but also satisfying and fun (when everything works as expected right?...:sweat_smile:).
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/liantsoa-rasata-b682b6122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:rmliantsoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
@@ -8,6 +8,7 @@ My name is Liantsoa Rasata, just call me Lily :blush: I'm a Full-Stack Developer
 ## Tech skills
 #### Front End
 <p>
+  <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,10 +30,8 @@ My name is Liantsoa Rasata, just call me Lily :blush: I'm a Full-Stack Developer
 
 #### IDEs/Editors
 <p>
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=whitee">
   <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="VS" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </p>
 
 
@@ -40,12 +39,6 @@ My name is Liantsoa Rasata, just call me Lily :blush: I'm a Full-Stack Developer
 <p>
   <img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</p>
-
-#### CMS
-<p>
-  <img  alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img  alt="Shopify" src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white">
 </p>
 
 #### Project management tools
@@ -56,18 +49,10 @@ My name is Liantsoa Rasata, just call me Lily :blush: I'm a Full-Stack Developer
 
 ## Tech I'm learning 
 <p>
-  <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img  alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-00000F?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img  alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img  alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
-## On my whishlist 
-<p>
-  <img  alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-0B94DE?style=for-the-badge&logoColor=white">
-  
-</p>
 <br/><br/>
 
 ## 📊 GitHub stats
