@@ -41,12 +41,12 @@ Most recently worked with:
 #### DevOps 
 Familiar with:
 
-[![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)Docker
-[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) AWS
+[![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 #### IDEs/Editors
 
-[![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev) IntelliJ IDEA
+[![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 
 #### OS
