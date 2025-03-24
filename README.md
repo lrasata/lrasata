@@ -7,7 +7,7 @@ I'm Liantsoa, a Software Engineer who recently moved to Germany after spending 5
 
 ## Tech skills
 #### Front End
-<p> Most recently worked with:</p>
+Main skills
 
 [![javascript typescript](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 [![html css](https://skillicons.dev/icons?i=html)](https://skillicons.dev)HTML
@@ -15,15 +15,15 @@ I'm Liantsoa, a Software Engineer who recently moved to Germany after spending 5
 [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React
 [![redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) Redux
 [![mui](https://skillicons.dev/icons?i=mui)](https://skillicons.dev) Material UI
+[![jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) Jest & React testing librarx
 
-<p>Also familiar with:</p>
 
-[![angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) Angular
+Also worked with [![angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) Angular
 
 ----
 
 #### Back End
-Most recently worked with: 
+Main skills
 
 [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)Python
 [![postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) Postman
@@ -31,26 +31,20 @@ Most recently worked with:
 <img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF"> 
 <img alt="restapi" src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white">
 
-<p>Also familiar with:</p>
-
-[![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
+Also familiar with [![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
 <img alt="JHipster" src="https://img.shields.io/badge/JHipster-563D7C?style=for-the-badge&logo=jhipster&logoColor=white">
 
 ----
 
 #### DevOps 
-Familiar with:
-
-[![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+Familiar with [![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 #### IDEs/Editors
-
 [![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 
 #### OS
-
 [![windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 [![apple](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
 
