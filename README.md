@@ -15,7 +15,7 @@ Main skills
 [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React
 [![redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) Redux
 [![mui](https://skillicons.dev/icons?i=mui)](https://skillicons.dev) Material UI
-[![jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) Jest & React testing librarx
+[![jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) Jest & React testing library
 
 
 Also worked with [![angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) Angular
