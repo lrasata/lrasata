@@ -54,6 +54,13 @@ Familiar with [![docker](https://skillicons.dev/icons?i=docker)](https://skillic
   <img  alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
 </p>
 
+---
+
+#### Currently learning 
+[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) NodeJS
+[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+
 
 
 
