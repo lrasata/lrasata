@@ -59,6 +59,7 @@ Familiar with [![docker](https://skillicons.dev/icons?i=docker)](https://skillic
 #### Currently learning 
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) NodeJS
 [![mongodb](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB
+[![graphql](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev) GraphQL
 [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
