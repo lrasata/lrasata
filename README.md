@@ -9,16 +9,20 @@ I'm Liantsoa, a Software Engineer who recently moved to Germany after spending 5
 #### Front End
 Main skills
 
-[![javascript typescript](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-[![html css](https://skillicons.dev/icons?i=html)](https://skillicons.dev)HTML
-[![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev)CSS
+![javascript](https://skillicons.dev/icons?i=js) Javascript
+![typescript](https://skillicons.dev/icons?i=ts) Typescript 
+[![html css](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML
+[![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS
+
 [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React
 [![redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) Redux
 [![mui](https://skillicons.dev/icons?i=mui)](https://skillicons.dev) Material UI
 [![jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) Jest & React testing library
 
 
-Also worked with [![angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) Angular
+Also worked with:
+
+[![angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) Angular
 
 ----
 
@@ -26,19 +30,26 @@ Also worked with [![angular](https://skillicons.dev/icons?i=angular)](https://sk
 Main skills
 
 [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)Python
-[![postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) Postman
 [![postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) Postgresql
+[![postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) Postman
 <img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF"> 
 <img alt="restapi" src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white">
 
-Also familiar with [![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
+
+Also familiar with:
+
+[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) NodeJS
+[![mongodb](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB
+
+[![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
 <img alt="JHipster" src="https://img.shields.io/badge/JHipster-563D7C?style=for-the-badge&logo=jhipster&logoColor=white">
 
 ----
 
 #### DevOps 
-Familiar with [![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+Familiar with: 
+
+[![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) Docker [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amazon web services
 
 #### IDEs/Editors
 [![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
@@ -56,13 +67,14 @@ Familiar with [![docker](https://skillicons.dev/icons?i=docker)](https://skillic
 
 ---
 
-#### Currently learning 
-[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) NodeJS
-[![mongodb](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB
+#### Currently learning
 [![graphql](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev) GraphQL
-[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amazon web services
 
 
+---
+### Highlighted projects
 
-
-
+|  <a href="https://github.com/lrasata/cheer-up-app"><b>Cheer up app</b><br /><img width="200px" src="./docs/cheer-up.png" alt="Cheer up App Screenshot" /></a>  | <a href="https://github.com/lrasata/themeal-recipe-db-app"><b>The Meal recipe DB</b><br /><img width="200px" src="./docs/themealrecipedb.png" alt="The meal recipe db Screenshot" /></a> | <a href="https://github.com/lrasata/question-workflow-frontend-app"><b>Question workflow App</b><br /><img width="200px" src="./docs/question-workflow.png" alt="Question workflow app Screenshot" /></a> |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://github.com/lrasata/todo-list-app"><b>My TODO List</b><br /><img width="180px" src="./docs/todolist.png" alt="Todo list App Screenshot" /></a> |                                                                                     More to come...                                                                                      |                                                                                               Coming Soon!                                                                                                |
