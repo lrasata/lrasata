@@ -1,9 +1,22 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Liantsoa, a Software Engineer who recently moved to Germany after spending 5 amazing years in New Zealand. I'm a passionate developer who likes to continuously learn, experiment, and test new things. For me, coding is not just a challenge, it’s also rewarding, enjoyable, and always an opportunity to grow.
 
-### Connect with me
-<a href="https://www.linkedin.com/in/liantsoa-rasata-b682b6122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:rmliantsoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"> 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/liantsoa-rasata-b682b6122/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:rmliantsoa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"  alt="Gmail Badge"/>
+  </a>
+</div>
+
+<h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p>I'm Liantsoa, a Software Engineer who recently moved to Germany after spending 5 amazing years in New Zealand. I'm a passionate developer who likes to continuously learn, experiment, and test new things. For me, coding is not just a challenge, it’s also rewarding, enjoyable, and always an opportunity to grow.</p>
+</div>
+
 
 ## Tech skills
 #### Front End
