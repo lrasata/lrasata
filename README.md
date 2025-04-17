@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"> 
 
@@ -17,13 +14,14 @@
 <p>I'm Liantsoa, a Software Engineer who recently moved to Germany after spending 5 amazing years in New Zealand. I'm a passionate developer who likes to continuously learn, experiment, and test new things. For me, coding is not just a challenge, it’s also rewarding, enjoyable, and always an opportunity to grow.</p>
 </div>
 
-
 ## Tech skills
+
 #### Front End
+
 Main skills
 
 ![javascript](https://skillicons.dev/icons?i=js) Javascript
-![typescript](https://skillicons.dev/icons?i=ts) Typescript 
+![typescript](https://skillicons.dev/icons?i=ts) Typescript
 [![html css](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML
 [![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS
 
@@ -32,7 +30,6 @@ Main skills
 [![mui](https://skillicons.dev/icons?i=mui)](https://skillicons.dev) Material UI
 [![jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) Jest & React testing library
 
-
 Also worked with:
 
 [![angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) Angular
@@ -40,14 +37,14 @@ Also worked with:
 ----
 
 #### Back End
+
 Main skills
 
 [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)Python
 [![postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) Postgresql
 [![postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) Postman
-<img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF"> 
+<img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF">
 <img alt="restapi" src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white">
-
 
 Also familiar with:
 
@@ -59,20 +56,24 @@ Also familiar with:
 
 ----
 
-#### DevOps 
-Familiar with: 
+#### DevOps
 
-[![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) Docker [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amazon web services
+Familiar with:
+
+[![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+Docker [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amazon web services
 
 #### IDEs/Editors
+
 [![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
-
 #### OS
+
 [![windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 [![apple](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
 
 #### Project management tools
+
 <p>
   <img  alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img  alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
@@ -81,13 +82,15 @@ Familiar with:
 ---
 
 #### Currently learning
+
 [![graphql](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev) GraphQL
 [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amazon web services
 
 
 ---
+
 ### Highlighted projects
 
 |  <a href="https://github.com/lrasata/cheer-up-app"><b>Cheer up app</b><br /><img width="200px" src="./docs/cheer-up.png" alt="Cheer up App Screenshot" /></a>  | <a href="https://github.com/lrasata/themeal-recipe-db-app"><b>The Meal recipe DB</b><br /><img width="200px" src="./docs/themealrecipedb.png" alt="The meal recipe db Screenshot" /></a> | <a href="https://github.com/lrasata/question-workflow-frontend-app"><b>Question workflow App</b><br /><img width="200px" src="./docs/question-workflow.png" alt="Question workflow app Screenshot" /></a> |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <a href="https://github.com/lrasata/todo-list-app"><b>My TODO List</b><br /><img width="180px" src="./docs/todolist.png" alt="Todo list App Screenshot" /></a> |                                                                                     More to come...                                                                                      |                                                                                               Coming Soon!                                                                                                |
+| <a href="https://github.com/lrasata/todo-list-app"><b>My TODO List</b><br /><img width="180px" src="./docs/todolist.png" alt="Todo list App Screenshot" /></a> |         <a href="https://github.com/lrasata/lrasata-website"><b>Personal portofolio</b><br /><img width="180px" src="./docs/lrasata.png" alt="Lrasata webiste Screenshot" /></a>         |                                                                                               Coming Soon!                                                                                                |
