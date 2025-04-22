@@ -30,10 +30,6 @@ Main skills
 [![mui](https://skillicons.dev/icons?i=mui)](https://skillicons.dev) Material UI
 [![jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) Jest & React testing library
 
-Also worked with:
-
-[![angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) Angular
-
 ----
 
 #### Back End
@@ -52,6 +48,7 @@ Also familiar with:
 [![mongodb](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB
 
 [![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) Spring Framework
 <img alt="JHipster" src="https://img.shields.io/badge/JHipster-563D7C?style=for-the-badge&logo=jhipster&logoColor=white">
 
 ----
@@ -84,7 +81,8 @@ Docker [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amaz
 #### Currently learning
 
 [![graphql](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev) GraphQL
-[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amazon web services
+[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) AWS
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) Spring Framework
 
 
 ---
