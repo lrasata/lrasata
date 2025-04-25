@@ -46,6 +46,7 @@ Also familiar with:
 
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) NodeJS
 [![mongodb](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB
+[![graphql](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev) GraphQL
 
 [![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
 [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) Spring Framework
@@ -80,7 +81,6 @@ Docker [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amaz
 
 #### Currently learning
 
-[![graphql](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev) GraphQL
 [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) AWS
 [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) Spring Framework
 
