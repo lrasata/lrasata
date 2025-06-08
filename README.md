@@ -15,8 +15,6 @@
   <p>I'm Liantsoa — a Frontend Engineer based in Germany, previously in New Zealand for 5 years. I’m passionate about clean code, continuous learning, and building intuitive, performant web applications.</p>
 </div>
 
----
-
 ## 🔧 Tech Stack
 
 ### Frontend
@@ -48,7 +46,6 @@ Also familiar with:
 <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
 
----
 
 ## 📚 Currently Learning
 
