@@ -1,89 +1,59 @@
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"> 
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300" alt="welcome-gif">
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/liantsoa-rasata-b682b6122/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:rmliantsoa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"  alt="Gmail Badge"/>
-  </a>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/liantsoa-rasata-b682b6122/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:rmliantsoa@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"  alt="Gmail Badge"/>
+    </a>
+  </div>
+
+  <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+  <p>I'm Liantsoa — a Frontend Engineer based in Germany, previously in New Zealand for 5 years. I’m passionate about clean code, continuous learning, and building intuitive, performant web applications.</p>
 </div>
-
-<h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p>I'm Liantsoa, a Software Engineer who recently moved to Germany after spending 5 amazing years in New Zealand. I'm a passionate developer who likes to continuously learn, experiment, and test new things. For me, coding is not just a challenge, it’s also rewarding, enjoyable, and always an opportunity to grow.</p>
-</div>
-
-## Tech skills
-
-#### Front End
-
-Main skills
-
-![javascript](https://skillicons.dev/icons?i=js) Javascript
-![typescript](https://skillicons.dev/icons?i=ts) Typescript
-[![html css](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML
-[![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS
-
-[![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React
-[![redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) Redux
-[![mui](https://skillicons.dev/icons?i=mui)](https://skillicons.dev) Material UI
-[![jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) Jest & React testing library
-
-----
-
-#### Back End
-
-Main skills
-
-[![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)Python
-[![postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) Postgresql
-[![postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) Postman
-<img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF">
-<img alt="restapi" src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white">
-
-Also familiar with:
-
-[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) NodeJS
-[![mongodb](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) MongoDB
-[![graphql](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev) GraphQL
-
-[![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
-[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) Spring Framework
-<img alt="JHipster" src="https://img.shields.io/badge/JHipster-563D7C?style=for-the-badge&logo=jhipster&logoColor=white">
-
-----
-
-#### DevOps
-
-Familiar with:
-
-[![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-Docker [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) Amazon web services
-
-#### IDEs/Editors
-
-[![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-
-#### OS
-
-[![windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-[![apple](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
-
-#### Project management tools
-
-<p>
-  <img  alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img  alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
-</p>
 
 ---
 
-#### Currently learning
+## 🔧 Tech Stack
 
-[![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) AWS
-[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) Spring Framework
+### Frontend
 
+![javascript](https://skillicons.dev/icons?i=js) JavaScript ![typescript](https://skillicons.dev/icons?i=ts) TypeScript ![html](https://skillicons.dev/icons?i=html) HTML ![css](https://skillicons.dev/icons?i=css) CSS  
+![react](https://skillicons.dev/icons?i=react) React ![redux](https://skillicons.dev/icons?i=redux) Redux  
+![mui](https://skillicons.dev/icons?i=mui) MUI ![jest](https://skillicons.dev/icons?i=jest) Jest & React Testing Library
+
+### Backend
+
+<img alt="Restful API" src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white">
+
+![py](https://skillicons.dev/icons?i=py) Python ![postgres](https://skillicons.dev/icons?i=postgres) PostgreSQL ![postman](https://skillicons.dev/icons?i=postman) Postman 
+
+<img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF">
+
+Also familiar with:  
+![nodejs](https://skillicons.dev/icons?i=nodejs) Node.js ![mongodb](https://skillicons.dev/icons?i=mongodb) MongoDB ![graphql](https://skillicons.dev/icons?i=graphql) GraphQL  
+![java](https://skillicons.dev/icons?i=java) Java ![spring](https://skillicons.dev/icons?i=spring) Spring Framework  
+
+### DevOps & Tools
+
+![docker](https://skillicons.dev/icons?i=docker) Docker  
+![aws](https://skillicons.dev/icons?i=aws) AWS  
+![idea](https://skillicons.dev/icons?i=idea) IntelliJ IDEA  
+
+
+### Project Management
+<img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+<img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
+
+---
+
+## 📚 Currently Learning
+
+![aws](https://skillicons.dev/icons?i=aws) AWS  
+![spring](https://skillicons.dev/icons?i=spring) Spring Framework
 
 ---
 
