@@ -49,8 +49,7 @@ Also familiar with:
 
 ## 📚 Currently Learning
 
-![aws](https://skillicons.dev/icons?i=aws) AWS  
-![spring](https://skillicons.dev/icons?i=spring) Spring Framework
+![spring](https://skillicons.dev/icons?i=spring) Spring Framework ![aws](https://skillicons.dev/icons?i=aws) AWS  ![spring](https://skillicons.dev/icons?i=linux) Linux
 
 ---
 
