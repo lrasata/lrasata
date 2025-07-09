@@ -19,37 +19,28 @@
 
 ### Frontend
 
-![javascript](https://skillicons.dev/icons?i=js) JavaScript ![typescript](https://skillicons.dev/icons?i=ts) TypeScript ![html](https://skillicons.dev/icons?i=html) HTML ![css](https://skillicons.dev/icons?i=css) CSS  
-![react](https://skillicons.dev/icons?i=react) React ![redux](https://skillicons.dev/icons?i=redux) Redux  
-![mui](https://skillicons.dev/icons?i=mui) MUI ![jest](https://skillicons.dev/icons?i=jest) Jest & React Testing Library
+![javascript](https://skillicons.dev/icons?i=js) ![typescript](https://skillicons.dev/icons?i=ts) ![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css)![react](https://skillicons.dev/icons?i=react) ![redux](https://skillicons.dev/icons?i=redux)![mui](https://skillicons.dev/icons?i=mui) ![emotion](https://skillicons.dev/icons?i=emotion) ![jest](https://skillicons.dev/icons?i=jest) 
 
 ### Backend
 
-<img alt="Restful API" src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white">
+<img alt="Restful API" src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white">![py](https://skillicons.dev/icons?i=py) ![java](https://skillicons.dev/icons?i=java) ![spring](https://skillicons.dev/icons?i=spring) ![postgres](https://skillicons.dev/icons?i=postgres) 
 
-![py](https://skillicons.dev/icons?i=py) Python ![postgres](https://skillicons.dev/icons?i=postgres) PostgreSQL ![postman](https://skillicons.dev/icons?i=postman) Postman 
+<img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF">![nodejs](https://skillicons.dev/icons?i=nodejs) ![mongodb](https://skillicons.dev/icons?i=mongodb) ![graphql](https://skillicons.dev/icons?i=graphql)
 
-<img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF">
-
-Also familiar with:  
-![nodejs](https://skillicons.dev/icons?i=nodejs) Node.js ![mongodb](https://skillicons.dev/icons?i=mongodb) MongoDB ![graphql](https://skillicons.dev/icons?i=graphql) GraphQL  
-![java](https://skillicons.dev/icons?i=java) Java ![spring](https://skillicons.dev/icons?i=spring) Spring Framework  
+ 
 
 ### DevOps & Tools
 
-![docker](https://skillicons.dev/icons?i=docker) Docker  
-![aws](https://skillicons.dev/icons?i=aws) AWS  
-![idea](https://skillicons.dev/icons?i=idea) IntelliJ IDEA  
+![docker](https://skillicons.dev/icons?i=docker) ![aws](https://skillicons.dev/icons?i=aws) ![postman](https://skillicons.dev/icons?i=postman) ![idea](https://skillicons.dev/icons?i=idea) 
 
 
 ### Project Management
-<img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-<img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
+<img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
 
 
 ## 📚 Currently Learning
 
-![spring](https://skillicons.dev/icons?i=spring) Spring Framework ![aws](https://skillicons.dev/icons?i=aws) AWS  ![spring](https://skillicons.dev/icons?i=linux) Linux
+![aws](https://skillicons.dev/icons?i=aws) ![spring](https://skillicons.dev/icons?i=spring) ![linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
