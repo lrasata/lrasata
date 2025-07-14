@@ -19,7 +19,7 @@
 
 ### Frontend
 
-![javascript](https://skillicons.dev/icons?i=js) ![typescript](https://skillicons.dev/icons?i=ts) ![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css)![react](https://skillicons.dev/icons?i=react) ![redux](https://skillicons.dev/icons?i=redux)![mui](https://skillicons.dev/icons?i=mui) ![emotion](https://skillicons.dev/icons?i=emotion) ![jest](https://skillicons.dev/icons?i=jest) 
+![javascript](https://skillicons.dev/icons?i=js) ![typescript](https://skillicons.dev/icons?i=ts) ![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css) ![react](https://skillicons.dev/icons?i=react) ![redux](https://skillicons.dev/icons?i=redux) ![mui](https://skillicons.dev/icons?i=mui) ![emotion](https://skillicons.dev/icons?i=emotion) ![jest](https://skillicons.dev/icons?i=jest) 
 
 ### Backend
 
@@ -31,7 +31,7 @@
 
 ### DevOps & Tools
 
-![docker](https://skillicons.dev/icons?i=docker) ![aws](https://skillicons.dev/icons?i=aws) ![postman](https://skillicons.dev/icons?i=postman) ![idea](https://skillicons.dev/icons?i=idea) 
+![docker](https://skillicons.dev/icons?i=docker) ![aws](https://skillicons.dev/icons?i=aws) ![prometheus](https://skillicons.dev/icons?i=prometheus) ![grafana](https://skillicons.dev/icons?i=grafana) ![postman](https://skillicons.dev/icons?i=postman) ![idea](https://skillicons.dev/icons?i=idea) 
 
 
 ### Project Management
@@ -40,7 +40,7 @@
 
 ## 📚 Currently Learning
 
-![aws](https://skillicons.dev/icons?i=aws) ![spring](https://skillicons.dev/icons?i=spring) ![linux](https://skillicons.dev/icons?i=linux)
+![aws](https://skillicons.dev/icons?i=aws) ![spring](https://skillicons.dev/icons?i=spring) ![linux](https://skillicons.dev/icons?i=linux) ![terraform](https://skillicons.dev/icons?i=terraform)
 
 ---
 
