@@ -19,7 +19,7 @@
 
 ### Frontend
 
-![javascript](https://skillicons.dev/icons?i=js) ![typescript](https://skillicons.dev/icons?i=ts) ![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css) ![react](https://skillicons.dev/icons?i=react) ![redux](https://skillicons.dev/icons?i=redux) ![mui](https://skillicons.dev/icons?i=mui) ![emotion](https://skillicons.dev/icons?i=emotion) ![jest](https://skillicons.dev/icons?i=jest) 
+![javascript](https://skillicons.dev/icons?i=js) ![typescript](https://skillicons.dev/icons?i=ts) ![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css) ![react](https://skillicons.dev/icons?i=react) ![redux](https://skillicons.dev/icons?i=redux) ![mui](https://skillicons.dev/icons?i=mui) ![emotion](https://skillicons.dev/icons?i=emotion) ![jest](https://skillicons.dev/icons?i=jest)  ![cypress](https://skillicons.dev/icons?i=cypress)
 
 ### Backend
 
