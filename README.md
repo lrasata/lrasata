@@ -23,8 +23,11 @@
   <tr>
     <td colspan="2">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,emotion,mui,jest,cypress" alt="frontend stack" />
-    </td>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,emotion,mui,jest,cypress" alt="frontend stack" /><br />
+    <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge" alt="storybook" />
+<img src="https://img.shields.io/badge/chromatic-FC521F?style=for-the-badge" alt="chromatic" />
+
+</td>
   </tr>
   <tr>
     <td>
@@ -57,9 +60,35 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/lrasata/lrasata-website">
+        <strong>Personal Portfolio</strong><br />
+        <img src="./docs/lrasata.png" width="180px" alt="Portfolio Screenshot" />
+      </a>
+    </td>
+    <td align="center">
+            <a href="https://github.com/lrasata/koa-ui">
+        <strong>Koa UI -  Design System</strong><br />
+        <img src="./docs/koa.png" width="140px" alt="Pokedex Screenshot" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lrasata/todo-list-app">
+        <strong>My TODO List</strong><br />
+        <img src="./docs/todolist.png" width="180px" alt="Todo List Screenshot" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lrasata/themeal-recipe-db-app">
         <strong>The Meal recipe DB</strong><br />
         <img src="./docs/themealrecipedb.png" width="200px" alt="The meal recipe db Screenshot" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lrasata/pokedex/tree/develop">
+        <strong>Pokedex</strong><br />
+        <img src="./docs/pokedex.png" width="200px" alt="Pokedex Screenshot" />
       </a>
     </td>
     <td align="center">
@@ -69,27 +98,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/lrasata/todo-list-app">
-        <strong>My TODO List</strong><br />
-        <img src="./docs/todolist.png" width="180px" alt="Todo List Screenshot" />
-      </a>
-    </td>
-  </tr>
-  <tr>
+          <strong>Coming Soon!</strong>
+        </td>
     <td align="center">
-      <a href="https://github.com/lrasata/lrasata-website">
-        <strong>Personal Portfolio</strong><br />
-        <img src="./docs/lrasata.png" width="180px" alt="Portfolio Screenshot" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lrasata/pokedex/tree/develop">
-        <strong>Pokedex</strong><br />
-        <img src="./docs/pokedex.png" width="200px" alt="Pokedex Screenshot" />
-      </a>
-    </td>
-    <td align="center">
-      <strong>Coming Soon!</strong>
-    </td>
+          <strong>Coming Soon!</strong>
+        </td>
   </tr>
 </table>
