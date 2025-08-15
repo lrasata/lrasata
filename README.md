@@ -72,19 +72,25 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/lrasata/infra-trip-planner-webapp">
+        <strong>Trip Planner Infrastructure</strong><br />
+        <img src="./docs/trip-planner-infra.png" width="180px" alt="Trip planner infrastrcture" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lrasata/todo-list-app">
         <strong>My TODO List</strong><br />
         <img src="./docs/todolist.png" width="180px" alt="Todo List Screenshot" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lrasata/themeal-recipe-db-app">
         <strong>The Meal recipe DB</strong><br />
         <img src="./docs/themealrecipedb.png" width="200px" alt="The meal recipe db Screenshot" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lrasata/pokedex/tree/develop">
         <strong>Pokedex</strong><br />
@@ -92,13 +98,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/lrasata/question-workflow-frontend-app">
+            <a href="https://github.com/lrasata/question-workflow-frontend-app">
         <strong>Question workflow App</strong><br />
         <img src="./docs/question-workflow.png" width="200px" alt="Question workflow Screenshot" />
       </a>
-    </td>
-    <td align="center">
-          <strong>Coming Soon!</strong>
         </td>
     <td align="center">
           <strong>Coming Soon!</strong>
