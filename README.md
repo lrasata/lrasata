@@ -57,6 +57,8 @@
 
 <h2>📌 Highlighted Projects</h2>
 
+<h3>Web applications</h3>
+
 <table>
   <tr>
     <td align="center">
@@ -72,25 +74,19 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/lrasata/infra-trip-planner-webapp">
-        <strong>Trip Planner Infrastructure</strong><br />
-        <img src="./docs/trip-planner-infra.png" width="180px" alt="Trip planner infrastrcture" />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lrasata/todo-list-app">
         <strong>My TODO List</strong><br />
         <img src="./docs/todolist.png" width="180px" alt="Todo List Screenshot" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lrasata/themeal-recipe-db-app">
         <strong>The Meal recipe DB</strong><br />
         <img src="./docs/themealrecipedb.png" width="200px" alt="The meal recipe db Screenshot" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lrasata/pokedex/tree/develop">
         <strong>Pokedex</strong><br />
@@ -106,5 +102,34 @@
     <td align="center">
           <strong>Coming Soon!</strong>
         </td>
+    <td align="center">
+          <strong>Coming Soon!</strong>
+        </td>
   </tr>
+</table>
+
+<h3>Infrastructures</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lrasata/infra-trip-planner-webapp">
+        <strong>Trip Planner Infrastructure</strong><br />
+        <img src="./docs/trip-planner-infra.png" height="150px" alt="Trip planner infrastrcture" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lrasata/infra-lrasata-website">
+        <strong>Portfolio website Infrastructure</strong><br />
+        <img src="./docs/lrasata-website-infra.png" height="150px" alt="lrasata website infrastrcture" />
+      </a>
+    </td>
+    <td align="center">
+          <strong>Coming Soon!</strong>
+        </td>
+    <td align="center">
+          <strong>Coming Soon!</strong>
+        </td>
+  </tr>
+
 </table>
