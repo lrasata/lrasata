@@ -114,13 +114,13 @@
   <tr>
     <td align="center">
       <a href="https://github.com/lrasata/infra-trip-planner-webapp">
-        <strong>Trip Planner Infrastructure</strong><br />
+        <strong>Trip Planner web app</strong><br />
         <img src="./docs/trip-planner-infra.png" height="150px" alt="Trip planner infrastrcture" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/lrasata/infra-lrasata-website">
-        <strong>Portfolio website Infrastructure</strong><br />
+        <strong>Portfolio website</strong><br />
         <img src="./docs/lrasata-website-infra.png" height="150px" alt="lrasata website infrastrcture" />
       </a>
     </td>
