@@ -115,17 +115,20 @@
     <td align="center">
       <a href="https://github.com/lrasata/infra-trip-planner-webapp">
         <strong>Trip Planner web app</strong><br />
-        <img src="./docs/trip-planner-infra.png" height="150px" alt="Trip planner infrastrcture" />
+        <img src="./docs/trip-planner-infra.png" width="300px" alt="Trip planner infrastrcture" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/lrasata/infra-lrasata-website">
         <strong>Portfolio website</strong><br />
-        <img src="./docs/lrasata-website-infra.png" height="150px" alt="lrasata website infrastrcture" />
+        <img src="./docs/lrasata-website-infra.png" width="300px" alt="lrasata website infrastrcture" />
       </a>
     </td>
     <td align="center">
-          <strong>Coming Soon!</strong>
+      <a href="https://github.com/lrasata/infra-image-uploader">
+        <strong>Image uploader</strong><br />
+        <img src="./docs/upload-image-infra.png" width="300px" alt="image uploader infrastrcture" />
+      </a>
         </td>
     <td align="center">
           <strong>Coming Soon!</strong>
