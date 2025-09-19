@@ -68,9 +68,15 @@
       </a>
     </td>
     <td align="center">
-            <a href="https://github.com/lrasata/koa-ui">
+                    <a href="https://github.com/lrasata/koa-ui">
         <strong>Koa UI -  Design System</strong><br />
-        <img src="./docs/koa.png" width="140px" alt="Pokedex Screenshot" />
+        <img src="./docs/koa.png" width="140px" alt="Koa UI" />
+      </a>
+    </td>
+    <td align="center">
+            <a href="https://github.com/lrasata/trip-planner-web-app">
+        <strong>Trip Planner web app</strong><br />
+        <img src="./docs/trip-planner.png" width="140px" alt="Trip Planner" />
       </a>
     </td>
     <td align="center">
@@ -79,28 +85,25 @@
         <img src="./docs/todolist.png" width="180px" alt="Todo List Screenshot" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lrasata/themeal-recipe-db-app">
         <strong>The Meal recipe DB</strong><br />
         <img src="./docs/themealrecipedb.png" width="200px" alt="The meal recipe db Screenshot" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lrasata/pokedex/tree/develop">
         <strong>Pokedex</strong><br />
         <img src="./docs/pokedex.png" width="200px" alt="Pokedex Screenshot" />
       </a>
-    </td>
+        </td>
     <td align="center">
-            <a href="https://github.com/lrasata/question-workflow-frontend-app">
+        <a href="https://github.com/lrasata/question-workflow-frontend-app">
         <strong>Question workflow App</strong><br />
         <img src="./docs/question-workflow.png" width="200px" alt="Question workflow Screenshot" />
       </a>
-        </td>
-    <td align="center">
-          <strong>Coming Soon!</strong>
         </td>
     <td align="center">
           <strong>Coming Soon!</strong>
