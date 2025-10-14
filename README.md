@@ -12,8 +12,8 @@
 
   <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
   <p>
-    I'm <strong>Liantsoa</strong> — a Frontend Engineer based in Germany, previously in New Zealand for 5 years.<br />
-    I’m passionate about clean code, continuous learning, and building intuitive, performant web applications.
+    I'm <strong>Liantsoa</strong> — an aspiring Cloud Engineer (AWS Certified) with a full-stack background.
+    Currently exploring, learning, and <strong>bringing ideas to life in the cloud</strong> ☁️
   </p>
 </div>
 
@@ -21,7 +21,13 @@
 
 <table>
   <tr>
-    <td colspan="2">
+    <td>
+      <h3>Cloud & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=git,aws,terraform,docker,prometheus,grafana,linux" alt="devops tools" />
+</td>
+  </tr>
+  <tr>
+    <td>
       <h3>Frontend</h3>
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,emotion,mui,jest,cypress" alt="frontend stack" /><br />
     <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge" alt="storybook" />
@@ -32,30 +38,51 @@
   <tr>
     <td>
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=py,java,spring,postgres" alt="backend stack" /><br />
+      <img src="https://skillicons.dev/icons?i=py,java,spring,postgres,postman" alt="backend stack" />
       <img src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white" alt="RESTful API Badge" />
       <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF" alt="Strapi Badge" />
-    </td>
-    <td>
-      <h3>DevOps & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=docker,linux,aws,prometheus,grafana,postman,idea" alt="devops tools" />
     </td>
   </tr>
 </table>
 
-<h3>📚 Currently learning cloud engineering</h3>
+<h3>📚 Currently learning </h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes" alt="cloud tools" />
+  <img src="https://skillicons.dev/icons?i=terraform,kubernetes" alt="cloud tools" />
 </p>
 
-<h3>Exploring these technologies out of curiosity</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,graphql" alt="other tools" />
-</p>
 
 <hr />
 
 <h2>📌 Highlighted Projects</h2>
+
+<h3>Infrastructures</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lrasata/infra-trip-planner-webapp">
+        <strong>Trip Planner web app</strong><br />
+        <img src="./docs/trip-planner-infra.png" width="300px" alt="Trip planner infrastrcture" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lrasata/infra-lrasata-website">
+        <strong>Portfolio website</strong><br />
+        <img src="./docs/lrasata-website-infra.png" width="300px" alt="lrasata website infrastrcture" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lrasata/infra-image-uploader">
+        <strong>Image uploader</strong><br />
+        <img src="./docs/upload-image-infra.png" width="300px" alt="image uploader infrastrcture" />
+      </a>
+        </td>
+    <td align="center">
+          <strong>Coming Soon!</strong>
+        </td>
+  </tr>
+
+</table>
 
 <h3>Web applications</h3>
 
@@ -111,31 +138,4 @@
   </tr>
 </table>
 
-<h3>Infrastructures</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/lrasata/infra-trip-planner-webapp">
-        <strong>Trip Planner web app</strong><br />
-        <img src="./docs/trip-planner-infra.png" width="300px" alt="Trip planner infrastrcture" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lrasata/infra-lrasata-website">
-        <strong>Portfolio website</strong><br />
-        <img src="./docs/lrasata-website-infra.png" width="300px" alt="lrasata website infrastrcture" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lrasata/infra-image-uploader">
-        <strong>Image uploader</strong><br />
-        <img src="./docs/upload-image-infra.png" width="300px" alt="image uploader infrastrcture" />
-      </a>
-        </td>
-    <td align="center">
-          <strong>Coming Soon!</strong>
-        </td>
-  </tr>
-
-</table>
