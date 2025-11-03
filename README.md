@@ -67,7 +67,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/lrasata/infra-trip-planner-webapp">
-        <strong>Trip Planner web app</strong><br />
+        <strong>Full Stack 3-Tier web app on AWS</strong><br />
         <img src="./docs/trip-planner-infra.png" width="300px" alt="Trip planner infrastrcture" />
       </a>
     </td>
@@ -114,7 +114,7 @@
     </td>
     <td align="center">
             <a href="https://github.com/lrasata/trip-planner-web-app">
-        <strong>Full Stack 3-Tier web app on AWS</strong><br />
+        <strong>Trip planner web app</strong><br />
         <img src="./docs/trip-planner.png" width="140px" alt="Trip Planner" />
       </a>
     </td>
