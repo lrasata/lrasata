@@ -114,7 +114,7 @@
     </td>
     <td align="center">
             <a href="https://github.com/lrasata/trip-planner-web-app">
-        <strong>Trip Planner web app</strong><br />
+        <strong>Full Stack 3-Tier web app on AWS</strong><br />
         <img src="./docs/trip-planner.png" width="140px" alt="Trip Planner" />
       </a>
     </td>
