@@ -47,7 +47,7 @@
 
 <h3>📚 Currently learning </h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=terraform,kubernetes" alt="cloud tools" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,gcp" alt="cloud tools" />
 </p>
 
 
