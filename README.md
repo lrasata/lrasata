@@ -73,7 +73,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/lrasata/infra-image-uploader">
-        <strong>Image uploader</strong><br />
+        <strong>File uploader</strong><br />
         <img src="./docs/upload-image-infra.png" width="300px" alt="image uploader infrastrcture" />
       </a>
         </td>
