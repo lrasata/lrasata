@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300" alt="Animated welcome illustration" />
+  <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
+  <p>
+    I'm <strong>Liantsoa</strong> — an aspiring Cloud Engineer (AWS Certified) with a full-stack background.
+    Currently exploring, learning, and <strong>bringing ideas to life in the cloud</strong> ☁️
+  </p>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/liantsoa-rasata-b682b6122/" target="_blank">
@@ -9,46 +13,49 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge" />
     </a>
   </div>
-
-  <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
-  <p>
-    I'm <strong>Liantsoa</strong> — an aspiring Cloud Engineer (AWS Certified) with a full-stack background.
-    Currently exploring, learning, and <strong>bringing ideas to life in the cloud</strong> ☁️
-  </p>
 </div>
 
-<h2>🔧 Tech Stack</h2>
+## 🔧 Tech Stack
 
-<table>
-  <tr>
-    <td>
-      <h3>Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=git,aws,terraform,docker,prometheus,grafana,linux" alt="devops tools" />
-</td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,emotion,mui,jest,cypress" alt="frontend stack" /><br />
-    <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge" alt="storybook" />
-<img src="https://img.shields.io/badge/chromatic-FC521F?style=for-the-badge" alt="chromatic" />
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 
-</td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=py,java,spring,postgres,postman" alt="backend stack" />
-      <img src="https://img.shields.io/badge/Restful%20API-0B94DE?style=for-the-badge&logoColor=white" alt="RESTful API Badge" />
-      <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=4945FF" alt="Strapi Badge" />
-    </td>
-  </tr>
-</table>
+---
 
-<h3>📚 Currently learning </h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,gcp" alt="cloud tools" />
-</p>
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-0B94DE?logo=apachespark&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=white)
+
+---
+
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
+![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?logo=chromatic&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+
 
 
 <hr />
