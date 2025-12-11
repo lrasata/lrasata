@@ -25,8 +25,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 
----
-
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -35,8 +33,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-0B94DE?logo=apachespark&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=white)
-
----
 
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
@@ -50,15 +46,10 @@
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 ![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?logo=chromatic&logoColor=white)
 
----
-
 ### 📚 Currently Learning
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 
-
-
-<hr />
 
 <h2>📌 Highlighted Projects</h2>
 
