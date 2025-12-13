@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
   <p>
-    I'm <strong>Liantsoa</strong> — an aspiring Cloud Engineer (AWS Certified) with a full-stack background.
+    I'm <strong>Liantsoa</strong> — a Cloud Engineer (AWS Certified) with a full-stack background.
     Currently exploring, learning, and <strong>bringing ideas to life in the cloud</strong> ☁️
   </p>
 
@@ -15,7 +15,7 @@
   </div>
 </div>
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -50,102 +50,105 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 
-
 <h2>📌 Highlighted Projects</h2>
-
-<h3>Infrastructures</h3>
-
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/lrasata/infra-lrasata-website">
-        <strong>Portfolio website</strong><br />
-        <img src="./docs/lrasata-website-infra.png" width="300px" alt="lrasata website infrastrcture" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lrasata/infra-trip-planner-webapp">
-        <strong>Full Stack 3-Tier web app on AWS</strong><br />
-        <img src="./docs/trip-planner-infra.png" width="300px" alt="Trip planner infrastrcture" />
-      </a>
-    </td>
-    <td align="center">
+    <td align="center" width="240">
       <a href="https://github.com/lrasata/infra-image-uploader">
-        <strong>File uploader</strong><br />
-        <img src="./docs/upload-image-infra.png" width="300px" alt="image uploader infrastrcture" />
+        <strong>File Uploader</strong><br />
+        <img src="./docs/upload-image-infra.png" width="200px" alt="Image uploader infrastructure" />
       </a>
-        </td>
-
+    </td>
+    <td>
+      <p>Serverless file upload system with automated file validation, storage and antivirus scanning.</p>
+      <p>
+        ☁️ <strong>AWS:</strong> S3, API Gateway, Lambda, DynamoDB, Route53, WAF, CloudWatch, SNS<br />
+        🧱 <strong>IaC:</strong> Terraform (module for reusable automation)<br />
+        🔁 <strong>CI/CD:</strong> Yes (GitHub Actions)<br />
+        🚀 <strong>Production-ready:</strong> Yes<br />
+        🧠 <strong>Complexity:</strong> Medium–High
+      </p>
+    </td>
   </tr>
-<tr>
-    <td align="center">
+
+  <tr>
+    <td align="center" width="240">
+      <a href="https://github.com/lrasata/infra-trip-planner-webapp">
+        <strong>3-Tier Web App</strong><br />
+        <img src="./docs/trip-planner-infra.png" width="200px" alt="Trip planner infrastructure" />
+      </a>
+    </td>
+    <td>
+      <p>
+        3-tier AWS infrastructure for a full-stack travel planner
+        (React frontend, Spring Boot backend, PostgreSQL).
+      </p>
+      <p>
+        ☁️ <strong>AWS:</strong> ECS Fargate, VPC, RDS, S3, CloudFront, Route53, API Gateway, Lambda, WAF, SNS<br />
+        🧱 <strong>IaC:</strong> Terraform<br />
+        🔁 <strong>CI/CD:</strong> In progress<br />
+        🚀 <strong>Production-ready:</strong> Yes<br />
+        🧠 <strong>Complexity:</strong> High
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="240">
       <a href="https://github.com/lrasata/infra-s3-image-moderator">
-        <strong>Image moderator</strong><br />
-        <img src="./docs/s3-image-moderator.png" width="300px" alt="image moderator infrastrcture" />
-      </a>
-        </td>
-    <td align="center">
-          <strong>Coming Soon!</strong>
-        </td>
-    <td align="center">
-          <strong>Coming Soon!</strong>
-        </td>
-</tr>
-
-</table>
-
-<h3>Web applications</h3>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/lrasata/lrasata-website">
-        <strong>Personal Portfolio</strong><br />
-        <img src="./docs/lrasata.png" width="180px" alt="Portfolio Screenshot" />
+        <strong>Image Moderator</strong><br />
+        <img src="./docs/s3-image-moderator.png" width="200px" alt="Image moderator infrastructure" />
       </a>
     </td>
-    <td align="center">
-                    <a href="https://github.com/lrasata/koa-ui">
-        <strong>Koa UI -  Design System</strong><br />
-        <img src="./docs/koa.png" width="140px" alt="Koa UI" />
-      </a>
-    </td>
-    <td align="center">
-            <a href="https://github.com/lrasata/trip-planner-web-app">
-        <strong>Trip planner web app</strong><br />
-        <img src="./docs/trip-planner.png" width="140px" alt="Trip Planner" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lrasata/todo-list-app">
-        <strong>My TODO List</strong><br />
-        <img src="./docs/todolist.png" width="180px" alt="Todo List Screenshot" />
-      </a>
+    <td>
+      <p>
+        Automated content safety scanner that periodically reviews S3 images using AWS Rekognition and flags or quarantines unsafe content.
+      </p>
+      <p>
+        ☁️ <strong>AWS:</strong> S3, Lambda, Rekognition, EventBridge, SNS<br />
+        🧱 <strong>IaC:</strong> Terraform (module for reusable automation)<br />
+        🔁 <strong>CI/CD:</strong> In progress<br />
+        🚀 <strong>Production-ready:</strong> Yes<br />
+        🧠 <strong>Complexity:</strong> Medium (event-driven automation)
+      </p>
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <a href="https://github.com/lrasata/themeal-recipe-db-app">
-        <strong>The Meal recipe DB</strong><br />
-        <img src="./docs/themealrecipedb.png" width="200px" alt="The meal recipe db Screenshot" />
+    <td align="center" width="240">
+      <a href="https://github.com/lrasata/infra-lrasata-website">
+        <strong>Portfolio Website</strong><br />
+        <img src="./docs/lrasata-website-infra.png" width="200px" alt="Portfolio website infrastructure" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/lrasata/pokedex/tree/develop">
-        <strong>Pokedex</strong><br />
-        <img src="./docs/pokedex.png" width="200px" alt="Pokedex Screenshot" />
-      </a>
-        </td>
-    <td align="center">
-        <a href="https://github.com/lrasata/question-workflow-frontend-app">
-        <strong>Question workflow App</strong><br />
-        <img src="./docs/question-workflow.png" width="200px" alt="Question workflow Screenshot" />
-      </a>
-        </td>
-    <td align="center">
-          <strong>Coming Soon!</strong>
-        </td>
+    <td>
+      <p>
+        Personal portfolio infrastructure showcasing projects, deployed as a secure, globally available static website on AWS.
+      </p>
+      <p>
+        ☁️ <strong>AWS:</strong> S3, CloudFront, Route53<br />
+        🧱 <strong>IaC:</strong> Terraform<br />
+        🔁 <strong>CI/CD:</strong> No<br />
+        🚀 <strong>Production-ready:</strong> Yes<br />
+        🧠 <strong>Complexity:</strong> Low–Medium (DNS, CDN, static hosting)
+      </p>
+    </td>
   </tr>
 </table>
+
+<h2>📝 Latest Blog Posts</h3>
+
+<ul>
+  <li>
+    <a href="https://medium.com/...">How I Split My Terraform Infrastructure into Independent Layers</a> — Oct 26, 2025 • 4 min read
+  </li>
+  <li>
+    <a href="https://medium.com/...">Connect your ECS Tasks to S3 or DynamoDB using a Gateway VPC Endpoint — it’s Free and more Secure</a> — Oct 21, 2025 • 4 min read
+  </li>
+  <li>
+    <a href="https://medium.com/...">Detect inappropriate images in S3 with AWS Rekognition + Terraform</a> — Oct 18, 2025 • 5 min read
+  </li>
+</ul>
+
 
 
