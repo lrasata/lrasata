@@ -86,8 +86,8 @@
       <p>
         ☁️ <strong>AWS:</strong> ECS Fargate, VPC, RDS, S3, CloudFront, Route53, API Gateway, Lambda, WAF, SNS<br />
         🧱 <strong>IaC:</strong> Terraform<br />
-        🔁 <strong>CI/CD:</strong> In progress<br />
-        🚀 <strong>Production-ready:</strong> Yes<br />
+        🔁 <strong>CI/CD:</strong> Yes<br />
+        🚀 <strong>Production-ready:</strong> Staging<br />
         🧠 <strong>Complexity:</strong> High
       </p>
     </td>
@@ -129,7 +129,7 @@
         ☁️ <strong>AWS:</strong> S3, CloudFront, Route53<br />
         🧱 <strong>IaC:</strong> Terraform<br />
         🔁 <strong>CI/CD:</strong> No<br />
-        🚀 <strong>Production-ready:</strong> Yes<br />
+        🚀 <strong>Production-ready:</strong> Demo<br />
         🧠 <strong>Complexity:</strong> Low–Medium (DNS, CDN, static hosting)
       </p>
     </td>
