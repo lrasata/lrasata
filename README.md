@@ -50,6 +50,30 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 
+---
+
+<h2>📝 Latest Blog Posts</h3>
+
+<ul>
+  <li>
+    <a href="https://medium.com/@rmliantsoa/understanding-kubernetes-on-gke-core-concepts-for-beginners-876abdfa73c9">Understanding Kubernetes on GKE: Core Concepts for Beginners</a> — Jan 23, 2026 • 6 min read
+  </li>
+  <li>
+    <a href="https://medium.com/@rmliantsoa/building-a-production-ready-file-uploader-a-practical-approach-71825b21d497">Building a Production-Ready File Uploader: A Practical Approach</a> — Dec 16, 2025 • 4 min read
+  </li>
+  <li>
+    <a href="https://medium.com/@rmliantsoa/how-i-split-my-terraform-infrastructure-into-independent-layers-9cfa014a7fce">How I Split My Terraform Infrastructure into Independent Layers</a> — Oct 26, 2025 • 4 min read
+  </li>
+  <li>
+    <a href="https://medium.com/aws-tip/connect-your-ecs-tasks-to-s3-or-dynamodb-using-a-gateway-vpc-endpoint-its-free-and-more-secure-e47d7fc7f6b7">Connect your ECS Tasks to S3 or DynamoDB using a Gateway VPC Endpoint — it’s Free and more Secure</a> — Oct 21, 2025 • 4 min read
+  </li>
+  <li>
+    <a href="https://medium.com/@rmliantsoa/detect-inappropriate-images-in-s3-with-aws-rekognition-terraform-b1ddd185c1db">Detect inappropriate images in S3 with AWS Rekognition + Terraform</a> — Oct 18, 2025 • 5 min read
+  </li>
+</ul>
+
+---
+
 <h2>📌 Highlighted Projects</h2>
 <table>
   <tr>
@@ -113,6 +137,26 @@
       </p>
     </td>
   </tr>
+    <tr>
+    <td align="center" width="240">
+      <a href="https://github.com/lrasata/infra-podinfo-demo">
+        <strong>PodInfo Demo</strong><br />
+        <img src="./docs/podinfo-demo.png" width="200px" alt="Image moderator infrastructure" />
+      </a>
+    </td>
+    <td>
+      <p>
+        IaC and configuration for deploying the podinfo app on GKE, with supporting observability and Terraform modules.
+      </p>
+      <p>
+        ☁️ <strong>GCP:</strong> GKE<br />
+        🧱 <strong>IaC & Tools:</strong> Terraform, Kubernetes, Helm, Prometheus, Grafana<br />
+        🔁 <strong>CI/CD:</strong> Yes<br />
+        🚀 <strong>Production-ready:</strong> Demo<br />
+        🧠 <strong>Complexity:</strong> Low-Medium
+      </p>
+    </td>
+  </tr>
 
   <tr>
     <td align="center" width="240">
@@ -135,23 +179,6 @@
     </td>
   </tr>
 </table>
-
-<h2>📝 Latest Blog Posts</h3>
-
-<ul>
-  <li>
-    <a href="https://medium.com/@rmliantsoa/building-a-production-ready-file-uploader-a-practical-approach-71825b21d497">Building a Production-Ready File Uploader: A Practical Approach</a> — Dec 16, 2025 • 4 min read
-  </li>
-  <li>
-    <a href="https://medium.com/@rmliantsoa/how-i-split-my-terraform-infrastructure-into-independent-layers-9cfa014a7fce">How I Split My Terraform Infrastructure into Independent Layers</a> — Oct 26, 2025 • 4 min read
-  </li>
-  <li>
-    <a href="https://medium.com/aws-tip/connect-your-ecs-tasks-to-s3-or-dynamodb-using-a-gateway-vpc-endpoint-its-free-and-more-secure-e47d7fc7f6b7">Connect your ECS Tasks to S3 or DynamoDB using a Gateway VPC Endpoint — it’s Free and more Secure</a> — Oct 21, 2025 • 4 min read
-  </li>
-  <li>
-    <a href="https://medium.com/@rmliantsoa/detect-inappropriate-images-in-s3-with-aws-rekognition-terraform-b1ddd185c1db">Detect inappropriate images in S3 with AWS Rekognition + Terraform</a> — Oct 18, 2025 • 5 min read
-  </li>
-</ul>
 
 
 
