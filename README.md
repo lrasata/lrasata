@@ -56,6 +56,9 @@
 
 <ul>
   <li>
+    <a href="https://medium.com/@rmliantsoa/how-to-design-a-system-when-you-dont-know-where-to-start-6d83ea324bdb">How to Design a System When You Dont't Know Where to Start</a> — Feb 24, 2026 • 4 min read
+  </li>
+  <li>
     <a href="https://medium.com/@rmliantsoa/understanding-kubernetes-on-gke-core-concepts-for-beginners-876abdfa73c9">Understanding Kubernetes on GKE: Core Concepts for Beginners</a> — Jan 23, 2026 • 6 min read
   </li>
   <li>
