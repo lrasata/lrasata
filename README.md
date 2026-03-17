@@ -157,11 +157,10 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="240">
-      <a href="https://github.com/lrasata/infra-lrasata-website">
-        <strong>Portfolio Website</strong><br />
+      <a href="https://github.com/lrasata/cdk-lrasata-website">
+        <strong>Portfolio - CDK managed</strong><br />
         <img src="./docs/lrasata-website-infra.png" width="200px" alt="Portfolio website infrastructure" />
       </a>
     </td>
@@ -170,7 +169,27 @@
         Personal portfolio infrastructure showcasing projects, deployed as a secure, globally available static website on AWS.
       </p>
       <p>
-        ☁️ <strong>AWS:</strong> S3, CloudFront, Route53<br />
+        ☁️ <strong>AWS:</strong> S3, CloudFront, Route53, ACM Cert, WAF<br />
+        🧱 <strong>IaC:</strong> AWS CDK<br />
+        🔁 <strong>CI/CD:</strong> Yes<br />
+        🚀 <strong>Production-ready:</strong> Yes<br />
+        🧠 <strong>Complexity:</strong> Low–Medium (DNS, CDN, static hosting)
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="240">
+      <a href="https://github.com/lrasata/infra-lrasata-website">
+        <strong>Portfolio - Terraform managed</strong><br />
+        <img src="./docs/lrasata-website-infra.png" width="200px" alt="Portfolio website infrastructure" />
+      </a>
+    </td>
+    <td>
+      <p>
+        Personal portfolio infrastructure showcasing projects, deployed as a secure, globally available static website on AWS.
+      </p>
+      <p>
+        ☁️ <strong>AWS:</strong> S3, CloudFront, Route53, ACM Cert, WAF<br />
         🧱 <strong>IaC:</strong> Terraform<br />
         🔁 <strong>CI/CD:</strong> No<br />
         🚀 <strong>Production-ready:</strong> Demo<br />
