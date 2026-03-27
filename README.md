@@ -119,6 +119,26 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="240">
+      <a href="https://github.com/lrasata/infra-lrasata-website">
+        <strong>Doc chat using RAG</strong><br />
+        <img src="./docs/doc-chat-ai-rag.png" width="200px" alt="Doc chat using RAG" />
+      </a>
+    </td>
+    <td>
+      <p>
+        AI-powered document chat using RAG. Upload PDFs and ask questions about them. Built with AWS Bedrock (Claude 4 + Titan), RDS PostgreSQL + pgvector, React, and Terraform.
+      </p>
+      <p>
+        ☁️ <strong>AWS:</strong> S3, CloudFront, Route53, ACM Cert, Lambda, API Gateway, DynamoDB, Amazon Bedrock, RDS + pgvector<br />
+        🧱 <strong>IaC:</strong> Terraform<br />
+        🔁 <strong>CI/CD:</strong> Yes<br />
+        🚀 <strong>Production-ready:</strong> Staging<br />
+        🧠 <strong>Complexity:</strong> Medium
+      </p>
+    </td>
+  </tr>
 
   <tr>
     <td align="center" width="240">
@@ -176,26 +196,6 @@
         🧱 <strong>IaC:</strong> AWS CDK<br />
         🔁 <strong>CI/CD:</strong> Yes<br />
         🚀 <strong>Production-ready:</strong> Yes<br />
-        🧠 <strong>Complexity:</strong> Low–Medium (DNS, CDN, static hosting)
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="240">
-      <a href="https://github.com/lrasata/infra-lrasata-website">
-        <strong>Portfolio - Terraform managed</strong><br />
-        <img src="./docs/lrasata-website-infra.png" width="200px" alt="Portfolio website infrastructure" />
-      </a>
-    </td>
-    <td>
-      <p>
-        Personal portfolio infrastructure showcasing projects, deployed as a secure, globally available static website on AWS.
-      </p>
-      <p>
-        ☁️ <strong>AWS:</strong> S3, CloudFront, Route53, ACM Cert, WAF<br />
-        🧱 <strong>IaC:</strong> Terraform<br />
-        🔁 <strong>CI/CD:</strong> No<br />
-        🚀 <strong>Production-ready:</strong> Demo<br />
         🧠 <strong>Complexity:</strong> Low–Medium (DNS, CDN, static hosting)
       </p>
     </td>
