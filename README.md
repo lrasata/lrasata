@@ -121,7 +121,7 @@
   </tr>
   <tr>
     <td align="center" width="240">
-      <a href="https://github.com/lrasata/serverless-docu-chat-ai">
+      <a href="https://github.com/lrasata/docu-chat-ai">
         <strong>Doc chat using RAG</strong><br />
         <img src="./docs/doc-chat-ai-rag.png" width="200px" alt="Doc chat using RAG" />
       </a>
