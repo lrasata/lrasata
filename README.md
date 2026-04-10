@@ -56,6 +56,9 @@
 
 <ul>
   <li>
+    <a href="https://medium.com/@rmliantsoa/building-a-rag-system-from-scratch-9-lessons-from-a-real-project-d5ec4555580b">Building a RAG System from Scratch: 9 Lessons from a Real Project</a> — Apr 10, 2026 • 6 min read
+  </li>
+  <li>
     <a href="https://medium.com/@rmliantsoa/how-to-design-a-system-when-you-dont-know-where-to-start-6d83ea324bdb">How to Design a System When You Dont't Know Where to Start</a> — Feb 24, 2026 • 4 min read
   </li>
   <li>
@@ -122,7 +125,7 @@
   <tr>
     <td align="center" width="240">
       <a href="https://github.com/lrasata/docu-chat-ai">
-        <strong>Doc chat using RAG</strong><br />
+        <strong>RAG Docu chat app </strong><br />
         <img src="./docs/doc-chat-ai-rag.png" width="200px" alt="Doc chat using RAG" />
       </a>
     </td>
