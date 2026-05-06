@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
   <p>
-    I'm <strong>Liantsoa</strong> — a Cloud Engineer (AWS Certified) with a full-stack background.
-    Currently exploring, learning, and <strong>bringing ideas to life in the cloud</strong> ☁️
+    I'm <strong>Liantsoa</strong> — a Full-Stack Engineer who builds and ships in the cloud ☁️. AWS Certified, systems thinker, and always thinking about how the whole thing fits together.
   </p>
 
   <div id="badges">
