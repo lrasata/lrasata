@@ -3,15 +3,6 @@
   <p>
     I'm <strong>Liantsoa</strong> — a Full-Stack Engineer who builds and ships in the cloud ☁️. AWS Certified, systems thinker, and always thinking about how the whole thing fits together.
   </p>
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/liantsoa-rasata-b682b6122/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="mailto:rmliantsoa@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge" />
-    </a>
-  </div>
 </div>
 
 ## Tech Stack
