@@ -36,10 +36,6 @@
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 ![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?logo=chromatic&logoColor=white)
 
-### 📚 Currently Learning
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-
 ---
 
 <h2>📝 Latest Blog Posts</h3>
