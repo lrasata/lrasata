@@ -38,14 +38,17 @@
 
 ---
 
-<h2>📝 Latest Blog Posts</h3>
+<h2>📝 Latest Blog Posts</h2>
 
 <ul>
+  <li>
+    <a href="https://medium.com/@rmliantsoa/your-sqs-consumer-will-process-the-same-message-twice-is-your-code-ready-690f24283a75">Your SQS Consumer Will Process the Same Message Twice. Is Your Code Ready?</a> — Oct 24, 2026 • 5 min read
+  </li>
   <li>
     <a href="https://medium.com/@rmliantsoa/building-a-rag-system-from-scratch-9-lessons-from-a-real-project-d5ec4555580b">Building a RAG System from Scratch: 9 Lessons from a Real Project</a> — Apr 10, 2026 • 6 min read
   </li>
   <li>
-    <a href="https://medium.com/@rmliantsoa/how-to-design-a-system-when-you-dont-know-where-to-start-6d83ea324bdb">How to Design a System When You Dont't Know Where to Start</a> — Feb 24, 2026 • 4 min read
+    <a href="https://medium.com/@rmliantsoa/how-to-design-a-system-when-you-dont-know-where-to-start-6d83ea324bdb">How to Design a System When You Don't Know Where to Start</a> — Feb 24, 2026 • 4 min read
   </li>
   <li>
     <a href="https://medium.com/@rmliantsoa/understanding-kubernetes-on-gke-core-concepts-for-beginners-876abdfa73c9">Understanding Kubernetes on GKE: Core Concepts for Beginners</a> — Jan 23, 2026 • 6 min read
@@ -68,6 +71,27 @@
 
 <h2>📌 Highlighted Projects</h2>
 <table>
+  <tr>
+    <td align="center" width="240">
+      <a href="https://github.com/lrasata/apply-relay">
+        <strong>Apply Relay</strong><br />
+        <img src="./docs/eda.png" width="200px" alt="Apply Relay event-driven architecture" />
+      </a>
+    </td>
+    <td>
+      <p>
+        Event-driven job application pipeline: five Python Lambda microservices that talk only through events (SNS → SQS fan-out), with idempotent consumers, dead-letter queues and end-to-end tracing.
+      </p>
+      <p>
+        ☁️ <strong>AWS:</strong> Lambda, API Gateway, SNS, SQS, DynamoDB, S3, SES, CloudWatch, X-Ray<br />
+        🧱 <strong>IaC:</strong> Terraform<br />
+        🔁 <strong>CI/CD:</strong> Yes (GitHub Actions, OIDC)<br />
+        🚀 <strong>Production-ready:</strong> Demo<br />
+        🧠 <strong>Complexity:</strong> Medium
+      </p>
+    </td>
+  </tr>
+
   <tr>
     <td align="center" width="240">
       <a href="https://github.com/lrasata/infra-image-uploader">
@@ -143,17 +167,19 @@
       <p>
         ☁️ <strong>AWS:</strong> S3, Lambda, Rekognition, EventBridge, SNS<br />
         🧱 <strong>IaC:</strong> Terraform (module for reusable automation)<br />
-        🔁 <strong>CI/CD:</strong> In progress<br />
+        🔁 <strong>CI/CD:</strong> Yes<br />
         🚀 <strong>Production-ready:</strong> Yes<br />
         🧠 <strong>Complexity:</strong> Medium (event-driven automation)
       </p>
     </td>
   </tr>
-    <tr>
+
+  <!--
+  <tr>
     <td align="center" width="240">
       <a href="https://github.com/lrasata/infra-podinfo-demo">
         <strong>PodInfo Demo</strong><br />
-        <img src="./docs/podinfo-demo.png" width="200px" alt="Image moderator infrastructure" />
+        <img src="./docs/podinfo-demo.png" width="200px" alt="PodInfo on GKE infrastructure" />
       </a>
     </td>
     <td>
@@ -189,7 +215,5 @@
       </p>
     </td>
   </tr>
+  -->
 </table>
-
-
-
