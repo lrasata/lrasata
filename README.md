@@ -43,6 +43,9 @@
 
 <ul>
   <li>
+    <a href="https://medium.com/@rmliantsoa/the-orchestrated-saga-explained-with-a-london-weekend-39ba1ad16d24">The Orchestrated Saga, Explained with a London Weekend</a> — Nov 21, 2026 • 5 min read
+  </li>
+  <li>
     <a href="https://medium.com/@rmliantsoa/your-sqs-consumer-will-process-the-same-message-twice-is-your-code-ready-690f24283a75">Your SQS Consumer Will Process the Same Message Twice. Is Your Code Ready?</a> — Oct 24, 2026 • 5 min read
   </li>
   <li>
