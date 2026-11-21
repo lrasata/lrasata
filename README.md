@@ -14,6 +14,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -73,6 +74,27 @@
 <table>
   <tr>
     <td align="center" width="240">
+      <a href="https://github.com/lrasata/trip-conductor">
+        <strong>Trip Conductor</strong><br />
+        <img src="./docs/trip-conductor-saga.svg" width="200px" alt="Trip Conductor booking saga: reserve, charge, confirm, compensate" />
+      </a>
+    </td>
+    <td>
+      <p>
+        Orchestrated trip booking: a Step Functions saga reserves a flight and a hotel, charges the payment and confirms both, compensating in reverse on failure. Commands over SQS with task tokens, a shared circuit breaker in DynamoDB, and a CQRS read model rebuilt by replaying EventBridge events.
+      </p>
+      <p>
+        ☁️ <strong>AWS:</strong> Step Functions, Lambda, API Gateway, SQS, EventBridge, DynamoDB, SES, SNS, CloudWatch, X-Ray<br />
+        🧱 <strong>IaC:</strong> Terraform<br />
+        🔁 <strong>CI/CD:</strong> Yes (GitHub Actions, OIDC)<br />
+        🎯 <strong>Shows:</strong> saga with a pivot and compensations, circuit breaker, idempotency, CQRS + event replay<br />
+        🧠 <strong>Complexity:</strong> High
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="240">
       <a href="https://github.com/lrasata/apply-relay">
         <strong>Apply Relay</strong><br />
         <img src="./docs/eda.png" width="200px" alt="Apply Relay event-driven architecture" />
@@ -86,7 +108,7 @@
         ☁️ <strong>AWS:</strong> Lambda, API Gateway, SNS, SQS, DynamoDB, S3, SES, CloudWatch, X-Ray<br />
         🧱 <strong>IaC:</strong> Terraform<br />
         🔁 <strong>CI/CD:</strong> Yes (GitHub Actions, OIDC)<br />
-        🚀 <strong>Production-ready:</strong> Demo<br />
+        🎯 <strong>Shows:</strong> choreography, fan-out with filter policies, idempotent consumers, DLQs, end-to-end tracing<br />
         🧠 <strong>Complexity:</strong> Medium
       </p>
     </td>
@@ -173,47 +195,4 @@
       </p>
     </td>
   </tr>
-
-  <!--
-  <tr>
-    <td align="center" width="240">
-      <a href="https://github.com/lrasata/infra-podinfo-demo">
-        <strong>PodInfo Demo</strong><br />
-        <img src="./docs/podinfo-demo.png" width="200px" alt="PodInfo on GKE infrastructure" />
-      </a>
-    </td>
-    <td>
-      <p>
-        IaC and configuration for deploying the podinfo app on GKE, with supporting observability and Terraform modules.
-      </p>
-      <p>
-        ☁️ <strong>GCP:</strong> GKE<br />
-        🧱 <strong>IaC & Tools:</strong> Terraform, Kubernetes, Helm, Prometheus, Grafana<br />
-        🔁 <strong>CI/CD:</strong> Yes<br />
-        🚀 <strong>Production-ready:</strong> Demo<br />
-        🧠 <strong>Complexity:</strong> Low-Medium
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="240">
-      <a href="https://github.com/lrasata/cdk-lrasata-website">
-        <strong>Portfolio - CDK managed</strong><br />
-        <img src="./docs/lrasata-website-infra.png" width="200px" alt="Portfolio website infrastructure" />
-      </a>
-    </td>
-    <td>
-      <p>
-        Personal portfolio infrastructure showcasing projects, deployed as a secure, globally available static website on AWS.
-      </p>
-      <p>
-        ☁️ <strong>AWS:</strong> S3, CloudFront, Route53, ACM Cert, WAF<br />
-        🧱 <strong>IaC:</strong> AWS CDK<br />
-        🔁 <strong>CI/CD:</strong> Yes<br />
-        🚀 <strong>Production-ready:</strong> Yes<br />
-        🧠 <strong>Complexity:</strong> Low–Medium (DNS, CDN, static hosting)
-      </p>
-    </td>
-  </tr>
-  -->
 </table>

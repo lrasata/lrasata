@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="640" viewBox="0 0 1480 640">
+<style>
+text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+.title { font-size: 20px; font-weight: 600; fill: #222; }
+.node { font-size: 15px; font-weight: 600; }
+.sub { font-size: 12.5px; }
+.edge { font-size: 12px; fill: #555; }
+.note { font-size: 13px; fill: #555; }
+.region { font-size: 14px; font-weight: 600; fill: #b8407f; }
+</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888"/></marker></defs>
+<rect width="1480" height="640" fill="#ffffff"/>
+<text class="title" x="740.0" y="40" text-anchor="middle">The booking saga</text>
+<polyline points="915,70 915,610" fill="none" stroke="#b8407f" stroke-width="2" stroke-dasharray="6 5"/>
+<text class="region" x="40" y="100" text-anchor="start">Before the pivot: every step can be undone</text>
+<text class="region" x="940" y="100" text-anchor="start">After the pivot: only forward</text>
+<circle cx="215" cy="130" r="8" fill="#444"/>
+<polyline points="215,138 215,170" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="120" y="170" width="190" height="70" rx="10" fill="#eeeefc" stroke="#5b55c9" stroke-width="1.5"/>
+<text class="node" x="215.0" y="202.0" text-anchor="middle" fill="#2b2680">Reserve flight</text>
+<text class="sub" x="215.0" y="220.0" text-anchor="middle" fill="#5b55c9">hold a seat (15 min)</text>
+<polyline points="310,205 400,205" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<text class="edge" x="355" y="195" text-anchor="middle">reserved</text>
+<rect x="400" y="170" width="190" height="70" rx="10" fill="#eeeefc" stroke="#5b55c9" stroke-width="1.5"/>
+<text class="node" x="495.0" y="202.0" text-anchor="middle" fill="#2b2680">Reserve hotel</text>
+<text class="sub" x="495.0" y="220.0" text-anchor="middle" fill="#5b55c9">hold a room (15 min)</text>
+<polyline points="590,205 680,205" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<text class="edge" x="635" y="195" text-anchor="middle">reserved</text>
+<rect x="680" y="170" width="190" height="70" rx="10" fill="#fbe8f3" stroke="#b8407f" stroke-width="3"/>
+<text class="node" x="775.0" y="202.0" text-anchor="middle" fill="#6e1d4a">Charge payment</text>
+<text class="sub" x="775.0" y="220.0" text-anchor="middle" fill="#b8407f">the pivot</text>
+<polyline points="870,205 960,205" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<text class="edge" x="892" y="195" text-anchor="middle">charged</text>
+<rect x="960" y="170" width="190" height="70" rx="10" fill="#eeeefc" stroke="#5b55c9" stroke-width="1.5"/>
+<text class="node" x="1055.0" y="202.0" text-anchor="middle" fill="#2b2680">Confirm flight + hotel</text>
+<text class="sub" x="1055.0" y="220.0" text-anchor="middle" fill="#5b55c9">in parallel</text>
+<polyline points="1150,205 1240,205" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<text class="edge" x="1195" y="195" text-anchor="middle">confirmed</text>
+<rect x="1240" y="170" width="190" height="70" rx="10" fill="#e3f4ec" stroke="#2f8a62" stroke-width="1.5"/>
+<text class="node" x="1335.0" y="202.0" text-anchor="middle" fill="#145a3c">Trip confirmed</text>
+<text class="sub" x="1335.0" y="220.0" text-anchor="middle" fill="#2f8a62">TripConfirmed</text>
+<rect x="120" y="380" width="190" height="70" rx="10" fill="#fbe9e9" stroke="#c0393b" stroke-width="1.5"/>
+<text class="node" x="215.0" y="412.0" text-anchor="middle" fill="#7a1a1c">Release flight</text>
+<text class="sub" x="215.0" y="430.0" text-anchor="middle" fill="#c0393b">compensation</text>
+<rect x="400" y="380" width="190" height="70" rx="10" fill="#fbe9e9" stroke="#c0393b" stroke-width="1.5"/>
+<text class="node" x="495.0" y="412.0" text-anchor="middle" fill="#7a1a1c">Release hotel</text>
+<text class="sub" x="495.0" y="430.0" text-anchor="middle" fill="#c0393b">compensation</text>
+<rect x="120" y="520" width="190" height="70" rx="10" fill="#fbe9e9" stroke="#c0393b" stroke-width="1.5"/>
+<text class="node" x="215.0" y="552.0" text-anchor="middle" fill="#7a1a1c">Trip cancelled</text>
+<text class="sub" x="215.0" y="570.0" text-anchor="middle" fill="#c0393b">TripCancelled + reason</text>
+<rect x="960" y="380" width="190" height="70" rx="10" fill="#fff4cc" stroke="#c79a00" stroke-width="1.5"/>
+<text class="node" x="1055.0" y="412.0" text-anchor="middle" fill="#6b5200">Needs attention</text>
+<text class="sub" x="1055.0" y="430.0" text-anchor="middle" fill="#8a6a00">TripNeedsAttention + alarm</text>
+<polyline points="120,225 80,225 80,555 120,555" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<text class="edge" x="88" y="485" text-anchor="start">no seat / vendor down</text>
+<polyline points="450,240 450,320 250,320 250,380" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<text class="edge" x="350" y="312" text-anchor="middle">no room / vendor down</text>
+<polyline points="775,240 775,415 590,415" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<text class="edge" x="765" y="330" text-anchor="end">card declined / vendor down</text>
+<polyline points="400,415 310,415" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="215,450 215,520" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1055,240 1055,380" fill="none" stroke="#888" stroke-width="2" marker-end="url(#arrow)"/>
+<text class="edge" x="1065" y="315" text-anchor="start">retries exhausted</text>
+<text class="note" x="360" y="540" text-anchor="start">Each step retries VendorUnavailable with backoff (5, 10, 20 s) before failing.</text>
+<text class="note" x="360" y="562" text-anchor="start">Compensations are idempotent and retried too. Holds expire on their own,</text>
+<text class="note" x="360" y="584" text-anchor="start">so a saga that dies halfway still frees the seat and the room.</text>
+<text class="note" x="940" y="540" text-anchor="start">After the payment, confirmations are retried,</text>
+<text class="note" x="940" y="562" text-anchor="start">never compensated: a person decides.</text>
+</svg>
